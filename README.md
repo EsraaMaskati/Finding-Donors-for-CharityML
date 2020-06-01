@@ -14,4 +14,4 @@ import visuals as vs
 from sklearn.*modulePlaceHolder* import *functionPlaceHolder*
 ```
 
-**This project was developed using _Jupyter_ _Notebook_ **
+**This project was developed using _Jupyter_ _Notebook_**
