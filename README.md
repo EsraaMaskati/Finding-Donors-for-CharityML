@@ -1,6 +1,11 @@
 # Finding Donors for CharityML 
 Applying supervised learning techniques on a U.S. census dataset to find possible donors for CharityML, CharityML is a non-profiting organization that provides financial support for people who aims to learn machine learning.
 
+
+## Required files 
+- [Census dataset](https://github.com/EsraaMaskati/Finding-Donors-for-CharityML/blob/master/census.csv)
+- [visuals](https://github.com/EsraaMaskati/Finding-Donors-for-CharityML/blob/master/visuals.py)
+
 ## Key libraries
 - pandas: for data manipulation
 - NumPy: for data exploration
@@ -13,8 +18,6 @@ from sklearn.*modulePlaceHolder* import *functionPlaceHolder*
 ```
 
 ## Notes
-- **This project was developed using _Jupyter_ _Notebook_**
+- This project was developed using **_Jupyter_ _Notebook_**
 - visuals is a python file contains multiple codes for data visualization
-```
-import visuals as vs
-```
+
